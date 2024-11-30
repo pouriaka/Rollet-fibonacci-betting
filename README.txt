@@ -1,0 +1,1 @@
+This code uses the Fibonacci sequence to bet on the chance of one third of the roulette and takes a backtest and plots the result.
